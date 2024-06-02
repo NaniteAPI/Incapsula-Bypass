@@ -2,7 +2,7 @@
 This repository demonstrates how to use NaniteAPI to effectively bypass Incapsula's security measures, specifically targeting the 'reese84' cookie and other protections on websites.
 The API simplifies the process of overcoming common web security challenges, enabling developers to access Incapsula-protected websites seamlessly.
 
-**Note:** This is a simple example demonstrating the implementation of the APIs. For more support visit the [Discord](https://discord.com).
+**Note:** This is a simple example demonstrating the implementation of the APIs. For more support visit the [Discord](https://discord.gg/5mGEg95z).
 
 ### Features
 - Returns a Solution payload which the user submits to the websites 'reese84' endpoint
